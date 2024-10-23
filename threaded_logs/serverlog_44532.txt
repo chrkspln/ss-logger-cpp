@@ -1,0 +1,2 @@
+44532 - 2024-Oct-23 22:03:21 [Trace] - [void __cdecl LoggerTest_LogToConsoleDifferentLevels_Test::TestBody(void)] This is a trace log
+44532 - 2024-Oct-23 22:03:21 [Trace] - [void __cdecl LoggerTest_LogTraceColor_Test::TestBody(void)] Trace message

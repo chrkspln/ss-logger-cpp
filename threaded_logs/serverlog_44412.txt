@@ -1,0 +1,3 @@
+44412 - 2024-Oct-23 22:03:21 [] - [void __cdecl LoggerTest_MultipleLogLevels_Test::TestBody(void)] Production log
+44412 - 2024-Oct-23 22:03:21 [Debug] - [void __cdecl LoggerTest_NoLogsOutput_Test::TestBody(void)] This message should not appear
+44412 - 2024-Oct-23 22:03:21 [Prod/Warning/Error] - [void __cdecl LoggerTest_LogLevelFilterDebug_Test::TestBody(void)] This debug log should appear

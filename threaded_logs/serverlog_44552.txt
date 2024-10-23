@@ -1,0 +1,3 @@
+44552 - 2024-Oct-23 22:03:21 [Trace] - [void __cdecl LoggerTest_LogToConsoleDifferentLevels_Test::TestBody(void)] This is a debug log
+44552 - 2024-Oct-23 22:03:21 [Trace] - [void __cdecl LoggerTest_LogToConsoleDifferentLevels_Test::TestBody(void)] This is a warning log
+44552 - 2024-Oct-23 22:03:21 [Trace] - [void __cdecl LoggerTest_LogErrorColor_Test::TestBody(void)] Test log error message

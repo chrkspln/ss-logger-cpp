@@ -1,0 +1,2 @@
+39668 - 2024-Oct-23 22:03:21 [] - [void __cdecl LoggerTest_MultipleLogLevels_Test::TestBody(void)] Warning log
+39668 - 2024-Oct-23 22:03:21 [Debug] - [void __cdecl LoggerTest_LogOutputFormat_Test::TestBody(void)] Test log message

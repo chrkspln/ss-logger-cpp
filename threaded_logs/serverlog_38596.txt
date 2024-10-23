@@ -1,0 +1,1 @@
+38596 - 2024-Oct-23 22:03:21 [Trace] - [void __cdecl LoggerTest_MultipleLogLevels_Test::TestBody(void)] Error log

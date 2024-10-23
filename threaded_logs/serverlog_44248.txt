@@ -1,0 +1,3 @@
+44248 - 2024-Oct-23 22:03:21 [Prod/Warning/Error] - [void __cdecl LoggerTest_LogLevelFilterProd_Test::TestBody(void)] This prod log should appear
+44248 - 2024-Oct-23 22:03:21 [Debug] - [void __cdecl LoggerTest_LoggerFlush_Test::TestBody(void)] This should be flushed immediately
+44248 - 2024-Oct-23 22:03:21 [Trace] - [void __cdecl LoggerTest_ResetRemovesSinks_Test::TestBody(void)] This should work after reset
